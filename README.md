@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndroBoi2537
+- 👋 Hi, I’m Joel Stephen, @AndroBoi2537 nice to meet you!!
 - 👀 I’m interested in Artificial Intelligence - DeepLearning/SpeechRecognition
 - 🌱 I’m currently learning JS/PHP/React
 - 📫 How to reach me - joelstephenyj@gmail.com
